@@ -4,4 +4,4 @@ For maintaining the N64 feel, the graphics will be based on low-poly design. As 
 
 ![low-poly-world](./../assets/low-poly-world.webp)
 
-AI generated image of low-poly design for a certain area of the world
+AI generated image of low-poly design for a certain area of the world "Smoggy Streets".

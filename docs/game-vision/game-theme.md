@@ -1,15 +1,25 @@
 # Game Theme
 
-The game theme is based on the Banjo-Kazooie. A collectathon based platformer game with the goal focusing on exploring the world and helping others by completing quests while attaining appropriate collectibles to progress through the game.
+The game theme is based on the Banjo-Kazooie. A collectathon based platformer game with the goal focusing on exploring the world and completing quests in each world while attaining appropriate collectibles to progress through the game.
 
-**Predefined cutscene at the inital stage (can be changed to adapt to a different storyline):**
+**The following are the list of some pre-defined elements provided for starting idea and can be changed to adapt to a different storyline.**
 
-The main characters BK will live a peaceful life in their village with their friends (as in Spiral Mountains). Suddenly, a witch with a evil plan attacks their village master in the neighour village (as in Isle o' Hags). The witch found the formula to gain immortality by sucking the life force of the living beings and so, she attacks the village master to gain a maximum amount of life force. BK has completed several adventures in the past and so, a certain character comes to inform BK for getting help and they decide to start their journey.
+**Pre-Defined BK Village:**
 
-**Predefined cutscene at the final stage (can be changed to adapt to a different storyline):**
+This is the village in which BK lives their peaceful life. The environmet will have their friends house and a community of people , and will be different from Spiral Mountain. This village features shops, houses, and a kingdom for their village master as in Paper Mario.
 
-The main characters BK will reach the lair in which the life force sucking machine is being used and the immortality potion was being invented by the witch. There BK has to fight with the witch and restore the village master back to life by releasing the life force. Once the final boss is defeated, a final post ending cutscene of BK with their friends enjoying in a beach will be shown and the game will end.
+**Pre-Defined Cutscene at the start of the game:**
 
-**Game Progress:**
+A similar cutscene as in Banjo-Kazooie for starting the game journey. The main characters' sister will be kidnapped by a witch for acquiring her beauty. The witch lives in a substantially distanced place in which her lair is present. Note that the lair is present outside of the BK's village and so they have to step outside of their village to proceed further.
 
-The idea for the person using this engine is to come up with different theme-based worlds each having interesting quests to solve. It is upto the game designer to decide on whether the worlds should be independent or inter-connected or a certain thing to collect and so on. (It's kinda Luffy crew's goal is to reach One Piece, but the actual progress in each island is what makes the story interesting)
+**Hub World:**
+
+Once BK steps outside the village, there will be hub world introduction, starting with a cutscene of introducing the hub world common environments. It is upto to the user of the engine to design how the hub-world should be.
+
+**Game Worlds:**
+
+Hub world will connect with each worlds and the player should progress through each worlds one by one to finally reach the access to the lair. There will be a certain collectible that acts as a key which has to be collected for accessing other worlds.
+
+**World Design:**
+
+It is upto to the engine user to design the worlds based on different themes. The goal is to make the player collect some certain collectible by immersing them in the quest journey and explorative mind.
