@@ -24,6 +24,8 @@ Note that concepts like special eggs, special feathers, disk pads, power-up shoe
 
 In BK village, there will be a training like area in which a certain character will teach how to use basic moves. All moves that are used throughout the game of Banjo-Kazooie will be teached.
 
+Learnable moves in the training area: Moves from the page [Banjo-Kazooie abilities](https://banjokazooie.fandom.com/wiki/Abilities) that is core to the character without any external factors.
+
 This one is provided as skippable option also because the fan-game players wouldn't want to do all these.
 
 **Energy bar and life trophies:**
