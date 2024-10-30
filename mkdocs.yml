@@ -7,8 +7,9 @@ theme:
     scheme: default
 nav:
   - Introduction: index.md
-  - Game Vision:
-    - Game Theme: game-vision/game-theme.md
-    - Graphics Environment: game-vision/visual-appearance.md
-  - Game Progress:
-    - Main Character Mechanics: game-mechanics/main-character.md
+  - Engine:
+    - Game Vision:
+      - Game Theme: engine/game-vision/game-theme.md
+      - Graphics Environment: engine/game-vision/visual-appearance.md
+    - Game Progress:
+      - Main Character Mechanics: engine/game-mechanics/main-character.md
